@@ -79,3 +79,6 @@ chrome-user-data
 *.swo
 
 package-lock.json
+build/
+localtest/
+
